@@ -31,4 +31,5 @@ def look_at_dynamic(x,y,z):
 #Examples
 look(90, 0)
 look_at(100, 0, 100)
-look_at_dynamic(0, 0, 0) #work while player is moving 10% of the time
+look_at_dynamic(0, 0, 0) #works while player is moving 10% of the time
+
